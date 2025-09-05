@@ -1,3 +1,9 @@
+Name: Om Vijay Shende
+Roll No: CE22B083
+
+
+# A2 Dimensionality Reduction, Visualization, and Classification Performance
+
 ## Files
 - PCA_mushroom.ipynb: Full, reproducible workflow with code, plots, and narrative cells. It prints shapes after encoding, standardization status, scree plots, selected k, 2D PCA scatter, and classification reports for both models.[2][3]
 - README.md (this file): How to run, design choices, and rubric-aligned justifications grounded in PCA and LR.
